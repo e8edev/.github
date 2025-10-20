@@ -1,4 +1,4 @@
-# e8e.dev
+# e8e
 
 **Executable Development**
 
